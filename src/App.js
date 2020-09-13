@@ -6,7 +6,7 @@ class App extends React.Component {
 
   styles = {
     fontStyle: "bold",
-    color: "teal",
+    color: "dark",
   };
 
   render() {

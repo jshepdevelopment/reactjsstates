@@ -15,8 +15,8 @@ class NewComp extends Component {
     }
     
     styles = {
-        fontStyle: "italic",
-        color: "purple"
+        fontStyle: "bold",
+        color: "dark"
       };
 
 Buttonchange=()=>{
